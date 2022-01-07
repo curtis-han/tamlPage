@@ -3,7 +3,7 @@ title: 'About'
 date: 2022-01-07T09:29:16+10:00
 layout: 'about'
 heroHeading: '私たちに関しては'
-heroSubHeading: "個人事業主として開業した"
+heroSubHeading: "2020年開業した"
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
