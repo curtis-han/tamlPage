@@ -1,28 +1,7 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
+email: 'curtis_han@outlook.com'
+phone: '090 8852 8421'
 businessName: 'Hugo Serif'
 address: |
-  123 Some Street
-  City, State 12345
-hours:
-  - day: Monday
-    open: 8:30am
-    close: 5:00pm
-  - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Thursday
-    open: 8:30am
-    close: 5:00pm
-  - day: Friday
-    open: 8:30am
-    close: 5:00pm
-  - day: Saturday
-    open: Closed
-    close:
-  - day: Sunday
-    open: Closed
-    close:
+  〒235-0045
+  神奈川県横浜市磯子区洋光台4-1-5
+      605号
