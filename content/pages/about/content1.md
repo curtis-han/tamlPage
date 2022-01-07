@@ -1,9 +1,9 @@
 ---
 title: '成长经历'
-date: 2018-12-06T09:29:16+10:00
+date: 2022-01-07T09:29:16+10:00
 weight: 1
 background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
-align: right
+align: left
 ---
 
-- 2021/01/18 起業
+- *2020/04/01 起業*
