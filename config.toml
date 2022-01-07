@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "ja"
-title = "EMTL"
+title = "TAML"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -38,11 +38,6 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "会社概要"
-    url = "/about/"
-    weight = 3
-
-[[menu.main]]
     name = "採用情報"
     url = "/history/"
     weight = 2
@@ -50,6 +45,11 @@ theme = "hugo-hero-theme"
 [[menu.main]]
     name = "問い合わせ"
     url = "/contact/"
+    weight = 3
+
+[[menu.main]]
+    name = "ABOUT"
+    url = "/about/"
     weight = 4
 
 [permalinks]
