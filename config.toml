@@ -16,9 +16,9 @@ theme = "hugo-hero-theme"
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/tamlLogo.svg"
-    desktop_height = "29px"
-    desktop_width = "217px"
+    desktop = "images/taml.svg"
+    desktop_height = "56px"
+    desktop_width = "168px"
     alt = "Hugo Hero"
 
 
