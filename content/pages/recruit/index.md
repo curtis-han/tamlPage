@@ -7,3 +7,4 @@ draft: false
 # About Heading
 
 {{< content-strip-left "/pages/recruit" "content1" >}}
+{{< content-strip-left "/pages/recruit" "content2" >}}

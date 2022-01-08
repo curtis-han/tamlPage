@@ -6,7 +6,7 @@ description = "Hero is a multipurpose theme with fullscreen hero images and full
 homepage = "https://github.com/zerostaticthemes/hugo-hero-theme"
 demosite = "https://hugo-hero.netlify.app/"
 
-tags = ["responsive","minimal","clean","company","portfolio","bootstrap","zerostatic"]
+tags = ["responsive","minimal","clean","taml","portfolio","bootstrap","zerostatic"]
 features = ["services","work","fullwidth","hero images"]
 
 [author]

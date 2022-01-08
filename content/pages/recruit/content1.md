@@ -2,8 +2,7 @@
 title: 'recruit'
 date: 2022-01-07T09:29:16+10:00
 weight: 1
-background: 'images/hakone.jpg'
+background: 'images/office.jpg'
 align: left
 ---
 
-## ただいま募集計画がありません
